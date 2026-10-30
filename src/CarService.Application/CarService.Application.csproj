@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../CarService.Domain/CarService.Domain.csproj" />
+  </ItemGroup>
+</Project>
